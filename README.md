@@ -21,25 +21,25 @@ In a nutshell:
 - Darkest Dark Theme (DevStyle)
 - Eclipse Web Developer Tools
 
-![](https://github.com/aawa69/EclipseSetup/blob/master/images/MarketplacePlugins.png)
+<img src="https://github.com/aawa69/EclipseSetup/blob/master/images/MarketplacePlugins.png" width="80%">
 
 - **Nightlion** theme via the **DevStyle** plugin from the Marketplace
 - Set Pastel icons
 - Enable the Breadcrumb
 - Set Explorer font size to 14
 
-![](https://github.com/aawa69/EclipseSetup/blob/master/images/EclipsePreferences.png)
+<img src="https://github.com/aawa69/EclipseSetup/blob/master/images/EclipsePreferences.png" width="80%">
 
 - See EclipseSAPColorSettings.xml in this repo
 
 Example in Eclipse:
 
-![](https://github.com/aawa69/EclipseSetup/blob/master/images/EclipseKeywords.png)
+<img src="https://github.com/aawa69/EclipseSetup/blob/master/images/EclipseKeywords.png" width="80%">
 
 - Change all fonts to Fira Code or Monaco size 14 (fonts will need to be downloaded, else Helvetica Neue should be available OFTB and isn't too bad)
 
 - Amend CDS keyword to orange:
 
-![](https://github.com/aawa69/EclipseSetup/blob/master/images/EclipsePreferencesCDS.png)
+<img src="https://github.com/aawa69/EclipseSetup/blob/master/images/EclipsePreferencesCDS.png" width="80%">
 
 Enjoy!!
