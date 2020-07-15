@@ -1,6 +1,6 @@
 # Eclipse Setup
 
-Eclipse Setup for SAP Development (ABAP)
+Eclipse Setup for SAP Development Environment (ABAP)
 
 ## ABAP Developer Tools (ADT)
 
