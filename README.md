@@ -36,10 +36,9 @@ Example in Eclipse:
 
 <img src="https://github.com/aawa69/EclipseSetup/blob/master/images/EclipseKeywords.png" width="80%">
 
-- Change all fonts to Fira Code or Monaco size 14 (fonts will need to be downloaded, else Helvetica Neue should be available OFTB and isn't too bad)
+- Change all fonts to Fira Code or Monaco size 14 (fonts may need to be downloaded, else Helvetica Neue should be available OFTB and isn't too bad)
+- Editor font can be amended globally via **Preferences > General > Appearance > Colors and Fonts > Basic > Text Font**
 
 - Amend CDS keyword to orange:
 
 <img src="https://github.com/aawa69/EclipseSetup/blob/master/images/EclipsePreferencesCDS.png" width="80%">
-
-Enjoy!!
