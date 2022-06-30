@@ -30,7 +30,7 @@ In a nutshell:
 
 <img src="https://github.com/aawa69/EclipseSetup/blob/master/images/EclipsePreferences.png" width="80%">
 
-- See EclipseSAPColorSettings.xml in this repo
+- See **EclipseSAPColorSettings.xml** in this repo
 
 Example in Eclipse:
 
