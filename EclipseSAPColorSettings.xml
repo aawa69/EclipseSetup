@@ -990,6 +990,25 @@
     <void property="green">
      <int>187</int>
     </void>
+    <void property="name">
+     <string>as checkbox</string>
+    </void>
+    <void property="red">
+     <int>194</int>
+    </void>
+    <void property="selected">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+    <void property="blue">
+     <int>155</int>
+    </void>
+    <void property="green">
+     <int>187</int>
+    </void>
     <void property="italic">
      <boolean>true</boolean>
     </void>
@@ -3070,6 +3089,120 @@
     </void>
     <void property="red">
      <int>222</int>
+    </void>
+    <void property="selected">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+    <void property="blue">
+     <int>137</int>
+    </void>
+    <void property="green">
+     <int>89</int>
+    </void>
+    <void property="name">
+     <string>selection-screen</string>
+    </void>
+    <void property="red">
+     <int>172</int>
+    </void>
+    <void property="selected">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+    <void property="blue">
+     <int>137</int>
+    </void>
+    <void property="green">
+     <int>89</int>
+    </void>
+    <void property="name">
+     <string>selection-screen begin of screen</string>
+    </void>
+    <void property="red">
+     <int>172</int>
+    </void>
+    <void property="selected">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+    <void property="blue">
+     <int>137</int>
+    </void>
+    <void property="green">
+     <int>89</int>
+    </void>
+    <void property="name">
+     <string>parameters</string>
+    </void>
+    <void property="red">
+     <int>172</int>
+    </void>
+    <void property="selected">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+    <void property="blue">
+     <int>137</int>
+    </void>
+    <void property="green">
+     <int>89</int>
+    </void>
+    <void property="name">
+     <string>parameter</string>
+    </void>
+    <void property="red">
+     <int>172</int>
+    </void>
+    <void property="selected">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+    <void property="blue">
+     <int>137</int>
+    </void>
+    <void property="green">
+     <int>89</int>
+    </void>
+    <void property="name">
+     <string>end of screen</string>
+    </void>
+    <void property="red">
+     <int>172</int>
+    </void>
+    <void property="selected">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+    <void property="blue">
+     <int>137</int>
+    </void>
+    <void property="green">
+     <int>89</int>
+    </void>
+    <void property="name">
+     <string>obligatory</string>
+    </void>
+    <void property="red">
+     <int>172</int>
     </void>
     <void property="selected">
      <boolean>true</boolean>
@@ -7285,111 +7418,16 @@
   <void method="add">
    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
     <void property="blue">
-     <int>108</int>
+     <int>131</int>
     </void>
     <void property="green">
-     <int>79</int>
-    </void>
-    <void property="name">
-     <string>selection-screen</string>
-    </void>
-    <void property="red">
-     <int>148</int>
-    </void>
-    <void property="selected">
-     <boolean>true</boolean>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
-    <void property="blue">
-     <int>108</int>
-    </void>
-    <void property="green">
-     <int>79</int>
-    </void>
-    <void property="name">
-     <string>parameters</string>
-    </void>
-    <void property="red">
-     <int>148</int>
-    </void>
-    <void property="selected">
-     <boolean>true</boolean>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
-    <void property="blue">
-     <int>108</int>
-    </void>
-    <void property="green">
-     <int>79</int>
-    </void>
-    <void property="name">
-     <string>parameter</string>
-    </void>
-    <void property="red">
-     <int>148</int>
-    </void>
-    <void property="selected">
-     <boolean>true</boolean>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
-    <void property="blue">
-     <int>108</int>
-    </void>
-    <void property="green">
-     <int>79</int>
-    </void>
-    <void property="name">
-     <string>begin of screen</string>
-    </void>
-    <void property="red">
-     <int>148</int>
-    </void>
-    <void property="selected">
-     <boolean>true</boolean>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
-    <void property="blue">
-     <int>108</int>
-    </void>
-    <void property="green">
-     <int>79</int>
-    </void>
-    <void property="name">
-     <string>end of screen</string>
-    </void>
-    <void property="red">
-     <int>148</int>
-    </void>
-    <void property="selected">
-     <boolean>true</boolean>
-    </void>
-   </object>
-  </void>
-  <void method="add">
-   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
-    <void property="blue">
-     <int>100</int>
-    </void>
-    <void property="green">
-     <int>183</int>
+     <int>131</int>
     </void>
     <void property="name">
      <string>*</string>
     </void>
     <void property="red">
-     <int>220</int>
+     <int>179</int>
     </void>
     <void property="selected">
      <boolean>true</boolean>
