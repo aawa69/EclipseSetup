@@ -2464,6 +2464,28 @@
    </object>
   </void>
   <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>103</int>
+     </void>
+     <void property="green">
+      <int>151</int>
+     </void>
+     <void property="italic">
+      <boolean>true</boolean>
+     </void>
+     <void property="name">
+      <string>loop at group</string>
+     </void>
+     <void property="red">
+      <int>235</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>  
+  <void method="add">
    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
     <void property="blue">
      <int>103</int>
@@ -3256,6 +3278,25 @@
     </void>
    </object>
   </void>
+  <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>103</int>
+     </void>
+     <void property="green">
+      <int>151</int>
+     </void>
+     <void property="name">
+      <string>group by</string>
+     </void>
+     <void property="red">
+      <int>235</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>  
   <void method="add">
    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
     <void property="blue">
@@ -5539,6 +5580,74 @@
    </object>
   </void>
   <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>147</int>
+     </void>
+     <void property="green">
+      <int>177</int>
+     </void>
+     <void property="italic">
+      <boolean>true</boolean>
+     </void>
+     <void property="name">
+      <string>shared memory enabled</string>
+     </void>
+     <void property="red">
+      <int>155</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>  
+  <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>147</int>
+     </void>
+     <void property="green">
+      <int>177</int>
+     </void>
+     <void property="italic">
+      <boolean>true</boolean>
+     </void>
+     <void property="name">
+      <string>global friends</string>
+     </void>
+     <void property="red">
+      <int>155</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>  
+  <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>147</int>
+     </void>
+     <void property="green">
+      <int>177</int>
+     </void>
+     <void property="italic">
+      <boolean>true</boolean>
+     </void>
+     <void property="name">
+      <string>for testing</string>
+     </void>
+     <void property="red">
+      <int>155</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>
+  
+  
+  <void method="add">
    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
     <void property="blue">
      <int>147</int>
@@ -5670,6 +5779,182 @@
     </void>
    </object>
   </void>
+  <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>147</int>
+     </void>
+     <void property="green">
+      <int>177</int>
+     </void>
+     <void property="italic">
+      <boolean>true</boolean>
+     </void>
+     <void property="name">
+      <string>duration</string>
+     </void>
+     <void property="red">
+      <int>155</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>  
+   <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>147</int>
+     </void>
+     <void property="green">
+      <int>177</int>
+     </void>
+     <void property="italic">
+      <boolean>true</boolean>
+     </void>
+     <void property="name">
+      <string>short</string>
+     </void>
+     <void property="red">
+      <int>155</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>   
+   <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>147</int>
+     </void>
+     <void property="green">
+      <int>177</int>
+     </void>
+     <void property="italic">
+      <boolean>true</boolean>
+     </void>
+     <void property="name">
+      <string>medium</string>
+     </void>
+     <void property="red">
+      <int>155</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>  
+   <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>147</int>
+     </void>
+     <void property="green">
+      <int>177</int>
+     </void>
+     <void property="italic">
+      <boolean>true</boolean>
+     </void>
+     <void property="name">
+      <string>long</string>
+     </void>
+     <void property="red">
+      <int>155</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>  
+   <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>147</int>
+     </void>
+     <void property="green">
+      <int>177</int>
+     </void>
+     <void property="italic">
+      <boolean>true</boolean>
+     </void>
+     <void property="name">
+      <string>risk level</string>
+     </void>
+     <void property="red">
+      <int>155</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>   
+   <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>147</int>
+     </void>
+     <void property="green">
+      <int>177</int>
+     </void>
+     <void property="italic">
+      <boolean>true</boolean>
+     </void>
+     <void property="name">
+      <string>critical</string>
+     </void>
+     <void property="red">
+      <int>155</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>     
+   <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>147</int>
+     </void>
+     <void property="green">
+      <int>177</int>
+     </void>
+     <void property="italic">
+      <boolean>true</boolean>
+     </void>
+     <void property="name">
+      <string>dangerous</string>
+     </void>
+     <void property="red">
+      <int>155</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>     
+   <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>147</int>
+     </void>
+     <void property="green">
+      <int>177</int>
+     </void>
+     <void property="italic">
+      <boolean>true</boolean>
+     </void>
+     <void property="name">
+      <string>harmless</string>
+     </void>
+     <void property="red">
+      <int>155</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>   
   <void method="add">
    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
     <void property="blue">
@@ -8881,6 +9166,63 @@
    </object>
   </void>
   <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>198</int>
+     </void>
+     <void property="green">
+      <int>191</int>
+     </void>
+     <void property="name">
+      <string>mapping from entity</string>
+     </void>
+     <void property="red">
+      <int>117</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>198</int>
+     </void>
+     <void property="green">
+      <int>191</int>
+     </void>
+     <void property="name">
+      <string>mapping to entity</string>
+     </void>
+     <void property="red">
+      <int>117</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>198</int>
+     </void>
+     <void property="green">
+      <int>191</int>
+     </void>
+     <void property="name">
+      <string>using control</string>
+     </void>
+     <void property="red">
+      <int>117</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>  
+  <void method="add">
    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
     <void property="blue">
      <int>198</int>
@@ -9560,6 +9902,44 @@
     </void>
    </object>
   </void>
+  <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>153</int>
+     </void>
+     <void property="green">
+      <int>204</int>
+     </void>
+     <void property="name">
+      <string>entities</string>
+     </void>
+     <void property="red">
+      <int>153</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>
+  <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>153</int>
+     </void>
+     <void property="green">
+      <int>204</int>
+     </void>
+     <void property="name">
+      <string>entity using control</string>
+     </void>
+     <void property="red">
+      <int>153</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>  
   <void method="add">
    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
     <void property="blue">
