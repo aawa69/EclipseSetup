@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+instance<?xml version="1.0" encoding="UTF-8"?>
 <java version="21.0.5" class="java.beans.XMLDecoder">
  <object class="java.util.ArrayList">
   <void method="add">
@@ -877,6 +877,25 @@
     </void>
    </object>
   </void>
+  <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>193</int>
+     </void>
+     <void property="green">
+      <int>235</int>
+     </void>
+     <void property="name">
+      <string>init</string>
+     </void>
+     <void property="red">
+      <int>253</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>  
   <void method="add">
    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
     <void property="blue">
@@ -8114,6 +8133,25 @@
     <void property="green">
      <int>190</int>
     </void>
+    <void property="name">
+     <string>for instance authorization</string>
+    </void>
+    <void property="red">
+     <int>143</int>
+    </void>
+    <void property="selected">
+     <boolean>true</boolean>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+    <void property="blue">
+     <int>235</int>
+    </void>
+    <void property="green">
+     <int>190</int>
+    </void>
     <void property="italic">
      <boolean>true</boolean>
     </void>
@@ -9561,6 +9599,44 @@
     </void>
    </object>
   </void>
+  <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>198</int>
+     </void>
+     <void property="green">
+      <int>191</int>
+     </void>
+     <void property="name">
+      <string>expanding nested tables</string>
+     </void>
+     <void property="red">
+      <int>117</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>198</int>
+     </void>
+     <void property="green">
+      <int>191</int>
+     </void>
+     <void property="name">
+      <string>keeping target lines</string>
+     </void>
+     <void property="red">
+      <int>117</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>   
   <void method="add">
    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
     <void property="blue">
