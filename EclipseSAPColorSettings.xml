@@ -4016,6 +4016,25 @@ instance<?xml version="1.0" encoding="UTF-8"?>
    </object>
   </void>
   <void method="add">
+    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
+     <void property="blue">
+      <int>103</int>
+     </void>
+     <void property="green">
+      <int>151</int>
+     </void>
+     <void property="name">
+      <string>aliases</string>
+     </void>
+     <void property="red">
+      <int>235</int>
+     </void>
+     <void property="selected">
+      <boolean>true</boolean>
+     </void>
+    </object>
+   </void>
+  <void method="add">
    <object class="com.sap.adt.tools.core.ui.preference.UIStyleEntry">
     <void property="blue">
      <int>103</int>
